@@ -1,0 +1,73 @@
+/* Estilos para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding-bottom: 50px;
+    font-family: "Playfair Display", serif;
+}
+
+/* Estilos para a tabela */
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 7px 7px 30px 7px;
+    text-align: center;
+}
+
+th, td {
+    border: 1px solid rgb(16, 36, 255);
+    padding: 7px;
+    text-align: center;
+}
+
+th {
+    color: rgb(16, 36, 255);
+}
+
+/* Estilos para as seções */
+section {
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    flex-direction: row;
+    gap: 20px; 
+}
+
+h1 {
+    text-align: center;
+    font-family: "Playwrite CU", cursive;
+    color: rgb(16, 36, 255);
+}
+
+hr {
+    padding-bottom: 10px;
+    margin-top: -25px;
+}
+
+label {
+    font-size: large;
+    
+}
+
+select {
+    padding: 2px;
+    margin-right: 3px;
+    font-size: medium;
+    border-radius: 5px;
+    border: 1px solid rgb(16, 36, 255);
+    background-color: white;
+    font-family: "Playfair Display", serif;
+}
+
+input {
+    padding: 2px;
+    font-size: medium;
+    border-radius: 5px;
+    border: 1px solid rgb(16, 36, 255);
+    background-color: rgba(16, 36, 255, 0.405);
+    cursor: pointer;
+    font-family: "Playfair Display", serif;
+}
+

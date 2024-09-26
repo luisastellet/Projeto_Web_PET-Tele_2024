@@ -1,0 +1,109 @@
+{
+    "alunos": [
+        {
+            "nome": "Gabriela Lima Moraes",
+            "nascimento": ["14", "06", "2000"],
+            "matricula_uff": ["2", "21", "041", "030"],
+            "cr": 8.5,
+            "historico": "De 30, não fez 3. P1: (não fez Prog1_P1, BD_P1; atrasou Redes_P1). P2: (não fez SO_P2, ES_P2; compensou com IA_P6)."
+        },
+        {
+            "nome": "Ana Carolina Silva",
+            "nascimento": ["01", "01", "1999"],
+            "matricula_uff": ["1", "21", "031", "063"],
+            "cr": 8.5,
+            "historico": "De 34, não fez 4. P1: (não fez Calc1_P1, Fac_P1; atrasou Calc2_P1; compensou com Fisexp_P5). P2: (não fez Algelin_P2, Logcc_P2; atrasou Metnum_P2, Calc3_P2; compensou com Logneb_P6)."
+        },
+        {
+            "nome": "Mariana Vicente Alves",
+            "nascimento": ["02", "03", "1995"],
+            "matricula_uff": ["1", "19", "041", "025"],
+            "cr": 9.1,
+            "historico": "De 30, não fez 3. P1: (não fez Estat_P1, Prog2_P1; compensou com BD_P5). P2: (não fez Algor_P2, LP2_P2; atrasou IA_P2)."
+        },
+        {
+            "nome": "Bruno Henrique Santos",
+            "nascimento": ["22", "06", "1996"],
+            "matricula_uff": ["2", "20", "041", "010"],
+            "cr": 8.4,
+            "historico": "De 28, não fez 2. P1: (não fez Hist_P1, Geo_P1). P2: (não fez Filo_P2, Soc_P2; atrasou Ling2_P2)."
+        },
+        {
+            "nome": "Daniel Fernandes Pereira",
+            "nascimento": ["12", "11", "1997"],
+            "matricula_uff": ["1", "23", "041", "001"],
+            "cr": 6.8,
+            "historico": "De 32, não fez 4. P1: (não fez Calc2_P1, LinAlg_P1; atrasou Fisica1_P1). P2: (não fez QuimicaOrg_P2, QuimicaInorg_P2; compensou com LabFisica_P6)."
+        },
+        {
+            "nome": "Érica Almeida Rodrigues",
+            "nascimento": ["31", "12", "1995"],
+            "matricula_uff": ["2", "18", "041", "076"],
+            "cr": 7.7,
+            "historico": "De 31, não fez 3. P1: (não fez Eletromag_P1, Circuitos_P1; atrasou MecanicaQuantica_P1). P2: (não fez Optica_P2, Relatividade_P2; compensou com FisicaModerna_P6)."
+        },
+        {
+            "nome": "Camila Oliveira Souza",
+            "nascimento": ["14", "06", "2000"],
+            "matricula_uff": ["2", "19", "031", "052"],
+            "cr": 5.1,
+            "historico": "De 29, não fez 2. P1: (não fez AnalisReal_P1, AnalisComplexa_P1). P2: (não fez EquaDif_P2, AlgebraAbstrata_P2; atrasou Topologia_P2)."
+        },
+        {
+            "nome": "Felipe Gonçalves Costa",
+            "nascimento": ["23", "08", "1995"],
+            "matricula_uff": ["1", "22", "031", "012"],
+            "cr": 6.7,
+            "historico": "De 33, não fez 4. P1: (não fez Macroeconomia_P1, Microeconomia_P1, HistoriaEcon_P1). P2: (não fez Financas_P2, Contab_P2; compensou com EstatEcon_P6)."
+        },
+        {
+            "nome": "Olivia Melo Gomes",
+            "nascimento": ["13", "10", "1992"],
+            "matricula_uff": ["1", "23", "031", "043"],
+            "cr": 9.3,
+            "historico": "De 34, não fez 5. P1: (não fez Calc_P1, Otimizacao_P1, Estat_P1, Prob_P1). P2: (não fez ModelagemMatematica_P2; compensou com AnaliseDeDados_P6)."
+        },
+        {
+            "nome": "Igor Pacheco Cardoso",
+            "nascimento": ["15", "04", "1993"],
+            "matricula_uff": ["2", "22", "031", "020"],
+            "cr": 8.9,
+            "historico": "De 28, não fez 2. P1: (não fez Fisexp_P1, FisicaTeorica_P1). P2: (não fez MecanicaClassica_P2, Eletromag_P2; atrasou Termodinamica_P2)."
+        },
+        {
+            "nome": "Júlia Ribeiro Castro",
+            "nascimento": ["11", "05", "1996"],
+            "matricula_uff": ["1", "24", "031", "013"],
+            "cr": 5.8,
+            "historico": "De 32, não fez 3. P1: (não fez CalcNum_P1, Estat_P1; atrasou Prog2_P1). P2: (não fez BD_P2; compensou com IA_P6, Redes_P6)."
+        },
+        {
+            "nome": "Gustavo Martins Xavier",
+            "nascimento": ["01", "06", "2000"],
+            "matricula_uff": ["1", "23", "031", "030"],
+            "cr": 7.2,
+            "historico": "De 35, não fez 4. P1: (não fez FisicaExp_P1, QuimicaOrg_P1; atrasou FisicaTeorica_P1). P2: (não fez Bioquimica_P2, Genetica_P2; compensou com Biotecnologia_P6)."
+        },
+        {
+            "nome": "Leonardo Barros Duarte",
+            "nascimento": ["13", "12", "1994"],
+            "matricula_uff": ["1", "23", "031", "004"],
+            "cr": 8.9,
+            "historico": "De 29, não fez 2. P1: (não fez Macroecon_P1, Microecon_P1). P2: (não fez Financas_P2, Contab_P2; atrasou MercInternacional_P2)."
+        },
+        {
+            "nome": "Nicolas Afonso Ferreira",
+            "nascimento": ["27", "02", "1995"],
+            "matricula_uff": ["2", "22", "031", "065"],
+            "cr": 6.7,
+            "historico": "De 31, não fez 3. P1: (não fez HistMod_P1, GeoPol_P1; atrasou FiloMod_P1). P2: (não fez SocContemp_P2, Antro_P2; compensou com Sociolinguistica_P6)."
+        },
+        {
+            "nome": "Helena Nunes Vieira",
+            "nascimento": ["01", "02", "2004"],
+            "matricula_uff": ["2", "20", "031", "066"],
+            "cr": 4.5,
+            "historico": "De 34, não fez 4. P1: (não fez CalcVetorial_P1, EqDif_P1; atrasou AlgebraLinear_P1). P2: (não fez GeomAnalitica_P2, GeometriaDescritiva_P2; compensou com Topologia_P6)."
+        }
+    ]
+}
